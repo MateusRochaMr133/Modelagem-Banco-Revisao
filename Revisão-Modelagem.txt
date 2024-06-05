@@ -1,0 +1,38 @@
+
+Atividade UC 03   A
+
+Bebe - Nome, Data Nascimento, peso do nascimento, altura, mae do bebe e medico que fez o parto.
+
+
+
+
+
+Mae - Nome, endereco, telefone, data nascimento     idMae   PK
+
+
+
+
+Medicos - CRM, nome, telefone, celular e especialidade
+
+
+
+
+
+Desenvolvimento da Criança - Diagnostico, data e eventuais presciçoes  id Bebe
+
+
+
+Atividade UC 3 B
+
+
+Clientes - rg, cpf, nome, idade, telefone e endereco //   idCliente PK
+
+
+
+
+Venda - Nome do Produto, tipo(flor,vaso,planta,...), preço e quantidade em estoque.  //  
+
+
+
+
+Compra - Cliente, data da compra, o valor total e os itens comprados   //  idCliente FK
